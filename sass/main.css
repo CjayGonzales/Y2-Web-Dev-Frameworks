@@ -1,0 +1,25 @@
+.red {
+  background: #df3131;
+}
+
+.profile_image {
+  width: 572px;
+  height: 524px;
+  overflow: hidden;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 125px;
+  box-shadow: 6px 10px 29px -3px rgba(0, 0, 0, 0.32);
+}
+
+.bg-light-overwritten {
+  background-color: #FFF0C0;
+}
+
+.padding {
+  padding: 100px 0px;
+}
+
+.font_alt {
+  font-family: "JetBrains Mono", monospace;
+}/*# sourceMappingURL=main.css.map */
